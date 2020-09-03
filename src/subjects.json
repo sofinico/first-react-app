@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "name": "Física 1",
+    "topic": "Introducción a los fundamentos de la mecánica"
+  },
+  {
+    "_id": 2,
+    "name": "Matemática 1",
+    "topic": "Análisis matemático elemental"
+  },
+  {
+    "_id": 3,
+    "name": "Laboratorio 1",
+    "topic": "Introducción a la física experimental"
+  },
+  {
+    "_id": 4,
+    "name": "Física 2",
+    "topic": "Ondas"
+  },
+  {
+    "_id": 5,
+    "name": "Matemática 2",
+    "topic": "Álgebra líneal (física)"
+  },
+  {
+    "_id": 6,
+    "name": "Laboratorio 2",
+    "topic": ""
+  },
+  {
+    "_id": 7,
+    "name": "Física 3",
+    "topic": "Electrostática y Magnetostática"
+  },
+  {
+    "_id": 8,
+    "name": "Matemática 3",
+    "topic": "Análisis matemático II"
+  },
+  {
+    "_id": 9,
+    "name": "Laboratorio 3",
+    "topic": ""
+  },
+  {
+    "_id": 10,
+    "name": "Física 4",
+    "topic": "Termódinamica Clásica e Introducción a Física Cuántica"
+  },
+  {
+    "_id": 11,
+    "name": "Matemática 4",
+    "topic": "Análisis complejo (física)"
+  },
+  {
+    "_id": 12,
+    "name": "Laboratorio 4",
+    "topic": ""
+  }
+]
