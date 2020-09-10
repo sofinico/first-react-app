@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SubjectItem = ({ name, id, topic, showId, showTopic }) => {
+const SubjectItem = ({ subject: { name, id, topic }, showId, showTopic }) => {
   if (showId && showTopic)
     return (
       <li>
