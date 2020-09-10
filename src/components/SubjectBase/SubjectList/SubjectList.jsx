@@ -13,7 +13,7 @@ const SubjectList = () => {
   useEffect(() => {
     const getSubjects = async () => {
       //Simulo que le pido asíncronamente al backend
-      const data = await require('../../subjects.json');
+      const data = await require('../../../subjects.json');
       setSubjects(data);
     };
 

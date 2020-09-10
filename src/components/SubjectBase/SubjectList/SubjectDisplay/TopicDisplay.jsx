@@ -1,11 +1,12 @@
 import React from 'react';
+import { Button } from '../../SubjectBaseStyles';
 
 const TopicDisplay = ({ handleTopicDisplay, isTopicVisible }) => {
   return (
     <div>
-      <button onClick={() => handleTopicDisplay(!isTopicVisible)}>
+      <Button onClick={() => handleTopicDisplay(!isTopicVisible)}>
         {isTopicVisible ? 'Ocultar Tema' : 'Mostrar Tema'}
-      </button>
+      </Button>
     </div>
   );
 };

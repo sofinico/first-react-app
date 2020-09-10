@@ -1,11 +1,12 @@
 import React from 'react';
+import { Button } from '../../SubjectBaseStyles';
 
 const IdDisplay = ({ handleIdDisplay, isIdVisible }) => {
   return (
     <div>
-      <button onClick={() => handleIdDisplay(!isIdVisible)}>
+      <Button onClick={() => handleIdDisplay(!isIdVisible)}>
         {isIdVisible ? 'Ocultar ID' : 'Mostrar ID'}
-      </button>
+      </Button>
     </div>
   );
 };

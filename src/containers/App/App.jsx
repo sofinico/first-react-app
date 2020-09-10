@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../../components/Navbar/Navbar';
-import SubjectList from '../../components/SubjectList/SubjectList';
+import SubjectList from '../../components/SubjectBase/SubjectList/SubjectList';
 
 const App = () => {
   return (
